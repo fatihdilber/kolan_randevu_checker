@@ -1,0 +1,16 @@
+{
+  "name": "kolan-checker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kolan Şişli Endokrinoloji - Doç. Dr. Ramazan Çakmak boş randevu takipçisi",
+  "scripts": {
+    "check": "node src/check.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
