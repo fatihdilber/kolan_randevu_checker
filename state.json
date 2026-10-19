@@ -1,6 +1,6 @@
 {
   "notifiedSlots": [],
-  "consecutiveFailures": 0,
+  "consecutiveFailures": 1,
   "failureNotified": false,
   "lastHeartbeat": "2026-10-15T11:00:54.926Z"
 }
